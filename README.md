@@ -18,8 +18,6 @@ tns debug <platform> --bundle
 tns run <platform> --bundle
 ```
 
-| Search                              | Download                              |
-| ----------------------------------- | ------------------------------------- |
-| ![Search](./Screenshots/Search.png) | ![Search](./Screenshots/Download.png) |
-| Delete Prompt                       | Music Player                          |
-| ![Search](./Screenshots/Delete.png) | ![Search](./Screenshots/Player.png)   |
+| Search                        | Download                        | Delete                        | Music Player                  |
+| ----------------------------- | ------------------------------- | ----------------------------- | ----------------------------- |
+| ![](./Screenshots/Search.png) | ![](./Screenshots/Download.png) | ![](./Screenshots/Delete.png) | ![](./Screenshots/Player.png) |
