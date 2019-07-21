@@ -4,7 +4,7 @@
 
 ## Usage
 
-``` bash
+```bash
 # Install dependencies
 npm install
 
@@ -17,3 +17,9 @@ tns debug <platform> --bundle
 # Build, watch for changes and run the application
 tns run <platform> --bundle
 ```
+
+| Search                              | Download                              |
+| ----------------------------------- | ------------------------------------- |
+| ![Search](./Screenshots/Search.png) | ![Search](./Screenshots/Download.png) |
+| Delete Prompt                       | Music Player                          |
+| ![Search](./Screenshots/Delete.png) | ![Search](./Screenshots/Player.png)   |
