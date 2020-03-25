@@ -7,7 +7,10 @@
   "nativescript": {
     "id": "org.nativescript.application",
     "tns-ios": {
-      "version": "5.4.2"
+      "version": "6.5.0"
+    },
+    "tns-android": {
+      "version": "6.5.0"
     }
   },
   "dependencies": {
@@ -15,7 +18,7 @@
     "nativescript-localstorage": "^2.0.0",
     "nativescript-vue": "^2.0.0",
     "nativescript-youtube-parser": "^1.1.0",
-    "tns-core-modules": "^5.4.2",
+    "tns-core-modules": "~6.5.0",
     "vuex": "^3.0.1",
     "youtube-dl": "^2.0.0"
   },
@@ -30,7 +33,7 @@
     "copy-webpack-plugin": "^4.5.2",
     "css-loader": "^1.0.0",
     "lazy": "1.0.11",
-    "nativescript-dev-webpack": "0.24.1",
+    "nativescript-dev-webpack": "~1.5.1",
     "nativescript-vue-template-compiler": "^2.0.0",
     "nativescript-worker-loader": "~0.9.0",
     "node-sass": "^4.9.2",

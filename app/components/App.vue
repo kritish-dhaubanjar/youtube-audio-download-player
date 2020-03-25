@@ -80,8 +80,8 @@ export default {
           q: this.searchQuery,
           key: "AIzaSyDcGXhH-zAna5c5o-cR6ngK_C8Rknt8izg"
         })
-      ).then(res => {
-        this.videos = JSON.parse(res._bodyInit).items || [];
+      ).then(res => res.json()).then(data=>{
+        this.videos = data.items || [];
       });
     },
 
